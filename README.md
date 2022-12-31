@@ -1,4 +1,6 @@
-# Project Lyrics
+# Project Lyriks
+
+## Website Link : [Lyriks](https://lyriks-hornedyogi.netlify.app/)
 
 Develop an elegant React.js Music Application. 
 
